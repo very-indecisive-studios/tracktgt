@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70547991/169676489-3ab0b48e-7c5d-4911-b111-576608305005.png">
+</p>
+
 # tracktgt
 
 'tracktgt' is a web application for users, more specifically enthusiasts of games/shows/books looking to keep track of their digital media consumption, to search and track their progress on shows, games and books. In addition, the platform also allows such users with similar interests to socialize with each other.
@@ -11,3 +15,7 @@
 https://user-images.githubusercontent.com/70547991/209454996-730de19b-b293-419e-901b-62df36e2acc6.mp4
 
 ![Poster](https://user-images.githubusercontent.com/70547991/209454799-5f9b050d-dcde-4533-b22d-6823c98156e1.jpg)
+
+```
+© 2022 Very Indecisive Studios. All rights reserved.
+```
